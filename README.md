@@ -1,0 +1,1 @@
+Поиск собственных значений матрицы используя The Hessenberg QR algorithm with Rayleigh quotient shift
